@@ -1,6 +1,9 @@
 # Quasar Vibration API (quasar-vibration-api)
 
-A Quasar Framework app
+This is a sample application for the native vibration api in browsers.
+
+## DEMO
+[DEMO](https://quasar-vibration-api.surge.sh/#/).
 
 ## Install the dependencies
 ```bash
